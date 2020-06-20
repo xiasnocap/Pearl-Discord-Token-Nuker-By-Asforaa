@@ -1,0 +1,6 @@
+discord.py
+asyncio
+requests
+pyfiglet==0.7
+colorama
+selenium
