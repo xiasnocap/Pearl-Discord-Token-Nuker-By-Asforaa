@@ -32,5 +32,9 @@ python3 pearl.py
 ```
 
 and here you have it hf and if you wanna support me here is my social media
-youtube : https://www.youtube.com/channel/UCvHrJppFKdvRfEmz7zQxCMQ?view_as=subscriber
-isntagram : https://instagram.com/asforaa_official/
+
+youtube
+https://www.youtube.com/channel/UCvHrJppFKdvRfEmz7zQxCMQ?view_as=subscriber
+
+isntagram
+https://instagram.com/asforaa_official/
