@@ -4,14 +4,20 @@ A tool that fucks discord accounts using there tokens only :D
 ## How to use ?
 
 ### first you should have python install it by typing
-
 ```
 pkg install python
 ```
+```
+pkg install git
+```
 
-### after installing python install the requirements
-type 
+### now download the tool with
+```
+git clone https://github.com/Asforaa/Pearl-Discord-Token-Nuker-By-Asforaa.git
+```
 
+### after installing the python and downloading the tool 
+install the requirements with these commands
 ```
 cd Pearl-Discord-Token-Nuker-By-Asforaa
 ```
@@ -21,7 +27,10 @@ pip install requirements.txt
 ```
 
 ### and run the tool with this command
-
 ```
 python3 pearl.py
 ```
+
+and here you have it hf and if you wanna support me here is my social media
+youtube : https://www.youtube.com/channel/UCvHrJppFKdvRfEmz7zQxCMQ?view_as=subscriber
+isntagram : https://instagram.com/asforaa_official/
