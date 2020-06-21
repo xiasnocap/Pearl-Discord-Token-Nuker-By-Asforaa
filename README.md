@@ -23,7 +23,7 @@ cd Pearl-Discord-Token-Nuker-By-Asforaa
 ```
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### and run the tool with this command
@@ -36,5 +36,5 @@ and here you have it hf and if you wanna support me here is my social media
 youtube
 https://www.youtube.com/channel/UCvHrJppFKdvRfEmz7zQxCMQ?view_as=subscriber
 
-isntagram
+Instagram
 https://instagram.com/asforaa_official/
