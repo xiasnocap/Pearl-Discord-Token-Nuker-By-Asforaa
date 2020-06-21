@@ -1,6 +1,6 @@
-discord.py
-asyncio
-requests
+discord.py==1.4.0
+asyncio==3.4.3
+requests==2.24.0
 pyfiglet==0.7
-colorama
-selenium
+colorama==0.4.3
+selenium==3.141.0
