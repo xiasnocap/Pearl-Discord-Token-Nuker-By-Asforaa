@@ -3,10 +3,11 @@ A tool that fucks discord accounts using there tokens only :D
 
 ## How to use ?
 
-### first you should have python install it by typing
+### first you should have python installed. install it by typing
 ```
 pkg install python
 ```
+and install git too
 ```
 pkg install git
 ```
