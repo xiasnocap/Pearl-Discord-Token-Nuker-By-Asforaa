@@ -23,6 +23,8 @@ install the requirements with these commands
 cd Pearl-Discord-Token-Nuker-By-Asforaa
 ```
 
+[![Run on Repl.it](https://repl.it/badge/github/Asforaa/Pearl-Discord-Token-Nuker-By-Asforaa)](https://repl.it/github/Asforaa/Pearl-Discord-Token-Nuker-By-Asforaa)
+
 ```
 pip install -r requirements.txt
 ```
