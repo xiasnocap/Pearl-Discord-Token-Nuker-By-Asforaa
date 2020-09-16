@@ -39,3 +39,6 @@ https://www.youtube.com/channel/UCvHrJppFKdvRfEmz7zQxCMQ?view_as=subscriber
 
 Instagram
 https://instagram.com/asforaa_official/
+
+
+[![Run on Repl.it](https://repl.it/badge/github/Asforaa/Pearl-Discord-Token-Nuker-By-Asforaa)](https://repl.it/github/Asforaa/Pearl-Discord-Token-Nuker-By-Asforaa)
