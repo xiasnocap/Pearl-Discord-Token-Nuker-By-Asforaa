@@ -105,7 +105,7 @@ def nuke():
         print('\n')
 
         for i in range(times):
-            await bot.create_guild('Hacked By Pearl Nuker', region=None, icon=None)
+            await bot.create_guild('Nuked by Xias', region=None, icon=None)
             print(f'{i} useless server created')
         print('\n')
         print('max server limit is [100]')
@@ -187,7 +187,7 @@ def spamservers():
         print('STATUS : [SERVER SPAMMER]')
         
         for i in range(times):
-            await bot.create_guild('Hacked By Pearl Rapper', region=None, icon=None)
+            await bot.create_guild('Hacked By Xias', region=None, icon=None)
             print(f'{i} useless server created')
     
         print('max server limit is [100]')
